@@ -2,7 +2,6 @@
 *A knowledge hub for ProDev Frontend Engineering learnings.*  
 
 ## **Overview of the ProDev Frontend Engineering Program**  
-Briefly describe the program’s goals, duration, and core focus areas (e.g., React, Next.js, PWA).  
 
 ## **Key Technologies & Concepts Covered**  
 ### **Technologies**  
